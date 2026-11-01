@@ -1,0 +1,4 @@
+market,baseline,treatment,annualized_mean_difference_points,bootstrap_lower_points,bootstrap_upper_points,replicates,block_months
+SPY,Inside bar,Inside plus NR7,-1.0111618047606217,-4.011017341194428,1.6545743692064874,2000,3
+QQQ,Inside bar,Inside plus NR7,3.1475474626796647,-2.0463282257341042,8.704820059736315,2000,3
+IWM,Inside bar,Inside plus NR7,-4.46549150199318,-9.551629145154338,0.5844126729839287,2000,3

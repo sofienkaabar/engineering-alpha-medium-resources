@@ -1,0 +1,22 @@
+{
+  "python": "3.11.7",
+  "pandas": "2.3.3",
+  "numpy": "1.26.4",
+  "matplotlib": "3.10.0",
+  "cost_per_side": 0.001,
+  "data_sha256": {
+    "IWM_yahoo.json": "eee4937ff1df9490d11529f22d709f4ab198b86e263e2c238d1b29ee3ba70098",
+    "QQQ_yahoo.json": "3b516705d858a786f04a386bcda100d9b400b1c1ef0ab77b3dee7f4549ed49f3",
+    "sources.json": "0a93e89598c27f6c1c7c5d5d39310d24dcd3372265b1f89b264632ea65dbf8b8",
+    "SPY_yahoo.json": "d7d8e83f438ee6649413893f92cc4dfc0c506112f5f74803a97fe394a94fc38d"
+  },
+  "extras": {
+    "signal_timing": "both session schedules use previous completed close versus its 200-session average",
+    "fee_scenarios_bps": [
+      1,
+      5,
+      10
+    ],
+    "exposure": "allocation during traded segments, not wall-clock exposure"
+  }
+}

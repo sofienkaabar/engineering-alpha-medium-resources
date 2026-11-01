@@ -1,0 +1,4 @@
+market,baseline,treatment,annualized_mean_difference_points,bootstrap_lower_points,bootstrap_upper_points,replicates,block_months
+SPY,Five-day low,Rebound confirmation,-0.7071277634679805,-5.7586950043767455,4.705082477764805,2000,3
+QQQ,Five-day low,Rebound confirmation,-2.0660113263234807,-8.62497211428266,4.994543713977489,2000,3
+IWM,Five-day low,Rebound confirmation,-0.9151651858514522,-9.050915381440065,7.7806513160590915,2000,3

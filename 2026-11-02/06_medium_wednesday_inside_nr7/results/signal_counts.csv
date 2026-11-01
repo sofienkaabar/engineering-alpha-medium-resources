@@ -1,0 +1,19 @@
+market,variant,period,raw_signals,entries
+SPY,Inside bar,development,156,126
+SPY,Inside bar,test,254,196
+SPY,Inside bar,late,110,89
+SPY,Inside plus NR7,development,50,45
+SPY,Inside plus NR7,test,86,81
+SPY,Inside plus NR7,late,39,38
+QQQ,Inside bar,development,158,132
+QQQ,Inside bar,test,252,200
+QQQ,Inside bar,late,121,101
+QQQ,Inside plus NR7,development,55,53
+QQQ,Inside plus NR7,test,68,64
+QQQ,Inside plus NR7,late,36,35
+IWM,Inside bar,development,176,139
+IWM,Inside bar,test,246,193
+IWM,Inside bar,late,121,95
+IWM,Inside plus NR7,development,48,45
+IWM,Inside plus NR7,test,93,85
+IWM,Inside plus NR7,late,48,44

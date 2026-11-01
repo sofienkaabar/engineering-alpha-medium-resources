@@ -1,0 +1,26 @@
+{
+  "python": "3.11.7",
+  "pandas": "2.3.3",
+  "numpy": "1.26.4",
+  "matplotlib": "3.10.0",
+  "cost_per_side": 0.001,
+  "data_sha256": {
+    "GLD_yahoo.json": "23fb7520856e2d7c31a3f2e573302231b03c8ed9b1e1c0bddd39d5e90cf0f1ef",
+    "sources.json": "0a93e89598c27f6c1c7c5d5d39310d24dcd3372265b1f89b264632ea65dbf8b8",
+    "SPY_yahoo.json": "d7d8e83f438ee6649413893f92cc4dfc0c506112f5f74803a97fe394a94fc38d",
+    "TLT_yahoo.json": "5822a65fb4bba938f56309450d6d1903dd0d878cde1db57bb8b31a99e1660f3f"
+  },
+  "extras": {
+    "periods": [
+      9,
+      26,
+      52
+    ],
+    "cloud_displacement_sessions": 26,
+    "atr_window": 14,
+    "atr_smoothing": "simple rolling mean",
+    "primary_clearance_atr": 0.5,
+    "exit": "close below current visible cloud bottom; next-open execution",
+    "no_future_features": "lagging Chikou plotting series is not calculated or used"
+  }
+}
