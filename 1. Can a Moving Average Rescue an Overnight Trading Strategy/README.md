@@ -1,4 +1,4 @@
-# Article 1
+# 1. Can a Moving Average Rescue an Overnight Trading Strategy
 
 I compare overnight and daytime schedules, then add a prior-close trend filter.
 

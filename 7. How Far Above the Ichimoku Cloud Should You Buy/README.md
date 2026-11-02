@@ -1,6 +1,6 @@
-# Article 4
+# 7. How Far Above the Ichimoku Cloud Should You Buy
 
-I compare drawdown-based sizing with volatility sizing. I label the matched-exposure controls as hindsight.
+I test whether requiring more distance above the Ichimoku cloud improves the entry rule.
 
 I use Python 3.11. From this folder, I install the packages and run the file:
 

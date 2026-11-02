@@ -1,4 +1,4 @@
-# Article 5
+# 5. Does Waiting for a Rebound Improve a Five-Day-Low Strategy
 
 I compare entering after a closing low with waiting for a positive closing change.
 

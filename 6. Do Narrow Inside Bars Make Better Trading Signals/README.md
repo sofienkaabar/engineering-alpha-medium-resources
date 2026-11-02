@@ -1,11 +1,11 @@
-# Article 2
+# 6. Do Narrow Inside Bars Make Better Trading Signals
 
-I compare a price-based allocation model with relative strength and passive portfolios.
+I test whether adding NR7 improves a strictly defined inside-bar entry.
 
 I use Python 3.11. From this folder, I install the packages and run the file:
 
 ```bash
-python -m pip install numpy==1.26.4 pandas==2.3.3 requests==2.34.2 scikit-learn==1.7.2 threadpoolctl==3.6.0
+python -m pip install numpy==1.26.4 pandas==2.3.3 requests==2.34.2
 python experiment.py
 ```
 

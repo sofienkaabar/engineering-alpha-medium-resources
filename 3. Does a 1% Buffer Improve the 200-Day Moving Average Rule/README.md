@@ -1,6 +1,6 @@
-# Article 7
+# 3. Does a 1% Buffer Improve the 200-Day Moving Average Rule
 
-I test whether requiring more distance above the Ichimoku cloud improves the entry rule.
+I test separate entry and exit boundaries around a moving average.
 
 I use Python 3.11. From this folder, I install the packages and run the file:
 
