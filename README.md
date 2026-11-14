@@ -29,3 +29,11 @@ I keep the code for my Engineering Alpha and Medium articles here. Choose the ar
 13. [Buying a Failed Breakdown: An Objective Channel Reversal Test](13.%20Buying%20a%20Failed%20Breakdown%20An%20Objective%20Channel%20Reversal%20Test/README.md)
 
 14. [Can Huber Regression Handle the Market's Wildest Days Better?](14.%20Can%20Huber%20Regression%20Handle%20the%20Market%27s%20Wildest%20Days%20Better/README.md)
+
+15. [Does a Bullish Engulfing Candle Need Fresh Ground?](15.%20Does%20a%20Bullish%20Engulfing%20Candle%20Need%20Fresh%20Ground/README.md)
+
+16. [Can an Outlier Model Spot Trouble Before a Stock Looks Volatile?](16.%20Can%20an%20Outlier%20Model%20Spot%20Trouble%20Before%20a%20Stock%20Looks%20Volatile/README.md)
+
+17. [Can a Model Tell You How Long a Crypto Recovery Might Take?](17.%20Can%20a%20Model%20Tell%20You%20How%20Long%20a%20Crypto%20Recovery%20Might%20Take/README.md)
+
+18. [When the Trade Tape Turns Against a Limit Order](18.%20When%20the%20Trade%20Tape%20Turns%20Against%20a%20Limit%20Order/README.md)
