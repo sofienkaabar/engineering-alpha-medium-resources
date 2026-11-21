@@ -37,3 +37,13 @@ I keep the code for my Engineering Alpha and Medium articles here. Choose the ar
 17. [Can a Model Tell You How Long a Crypto Recovery Might Take?](17.%20Can%20a%20Model%20Tell%20You%20How%20Long%20a%20Crypto%20Recovery%20Might%20Take/README.md)
 
 18. [When the Trade Tape Turns Against a Limit Order](18.%20When%20the%20Trade%20Tape%20Turns%20Against%20a%20Limit%20Order/README.md)
+
+21. [When Stochastic Turns Up Without a Price Rebound](21.%20When%20Stochastic%20Turns%20Up%20Without%20a%20Price%20Rebound/README.md)
+
+22. [Does the Shape of a Sell-Off Help Predict the Rebound?](22.%20Does%20the%20Shape%20of%20a%20Sell-Off%20Help%20Predict%20the%20Rebound/README.md)
+
+23. [Does Following the Volume Help You Buy at a Better Price?](23.%20Does%20Following%20the%20Volume%20Help%20You%20Buy%20at%20a%20Better%20Price/README.md)
+
+24. [Can a Ranking Model Pick Stocks Better Than Simple Momentum?](24.%20Can%20a%20Ranking%20Model%20Pick%20Stocks%20Better%20Than%20Simple%20Momentum/README.md)
+
+25. [Can Several Small Wicks Beat One Perfect Hammer?](25.%20Can%20Several%20Small%20Wicks%20Beat%20One%20Perfect%20Hammer/README.md)
