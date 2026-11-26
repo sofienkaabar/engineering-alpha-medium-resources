@@ -1,5 +1,7 @@
 # Can a Model Tell You How Long a Crypto Recovery Might Take?
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/can-a-model-tell-you-how-long-a-crypto).
+
 I run this standalone file with Python 3.11:
 
 ```powershell

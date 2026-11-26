@@ -1,5 +1,7 @@
 # 4. Sizing ETF Positions With the Ulcer Index - A Python Test
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/sizing-etf-positions-with-the-ulcer).
+
 I compare drawdown-based sizing with volatility sizing. I label the matched-exposure controls as hindsight.
 
 I use Python 3.11. From this folder, I install the packages and run the file:

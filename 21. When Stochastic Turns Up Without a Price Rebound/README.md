@@ -1,5 +1,7 @@
 # When Stochastic Turns Up Without a Price Rebound
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/when-stochastic-turns-up-without).
+
 I run my standalone calculation with Python 3.11:
 
 ```powershell

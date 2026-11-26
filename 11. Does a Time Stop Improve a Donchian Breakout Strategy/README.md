@@ -1,5 +1,7 @@
 # Does a Time Stop Improve a Donchian Breakout Strategy?
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/does-a-time-stop-improve-a-donchian).
+
 I test this idea with my standalone `experiment.py`. I use Python 3.11. I install the packages and run it from this folder:
 
 ```powershell

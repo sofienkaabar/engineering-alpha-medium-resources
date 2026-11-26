@@ -1,5 +1,7 @@
 # 7. How Far Above the Ichimoku Cloud Should You Buy
 
+I published this article on [Medium](https://kaabar-sofien.medium.com/how-far-above-the-ichimoku-cloud-should-you-buy-3550dd31183a).
+
 I test whether requiring more distance above the Ichimoku cloud improves the entry rule.
 
 I use Python 3.11. From this folder, I install the packages and run the file:

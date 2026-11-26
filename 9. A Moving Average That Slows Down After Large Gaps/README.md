@@ -1,5 +1,7 @@
 # A Moving Average That Slows Down After Large Gaps
 
+I published this article on [Medium](https://kaabar-sofien.medium.com/a-moving-average-that-slows-down-after-large-gaps-bdca67a7391d).
+
 I test this idea with my standalone `experiment.py`. I use Python 3.11. I install the packages and run it from this folder:
 
 ```powershell

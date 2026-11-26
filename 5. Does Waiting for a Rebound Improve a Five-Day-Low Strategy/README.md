@@ -1,5 +1,7 @@
 # 5. Does Waiting for a Rebound Improve a Five-Day-Low Strategy
 
+I published this article on [Medium](https://kaabar-sofien.medium.com/does-waiting-for-a-rebound-improve-a-five-day-low-strategy-02e429bdf4e8).
+
 I compare entering after a closing low with waiting for a positive closing change.
 
 I use Python 3.11. From this folder, I install the packages and run the file:

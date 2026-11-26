@@ -1,5 +1,7 @@
 # 3. Does a 1% Buffer Improve the 200-Day Moving Average Rule
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/does-a-1-buffer-improve-the-200-day).
+
 I test separate entry and exit boundaries around a moving average.
 
 I use Python 3.11. From this folder, I install the packages and run the file:

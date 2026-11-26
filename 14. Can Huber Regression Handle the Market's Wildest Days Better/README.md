@@ -1,5 +1,7 @@
 # Can Huber Regression Handle the Market's Wildest Days Better?
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/can-huber-regression-handle-the-markets).
+
 I test this idea with my standalone `experiment.py`. I use Python 3.11. I install the packages and run it from this folder:
 
 ```powershell

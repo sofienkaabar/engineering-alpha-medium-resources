@@ -1,5 +1,7 @@
 # Buying a Failed Breakdown: An Objective Channel Reversal Test
 
+I published this article on [Medium](https://kaabar-sofien.medium.com/buying-a-failed-breakdown-an-objective-channel-reversal-test-e5052fa49ab9).
+
 I test this idea with my standalone `experiment.py`. I use Python 3.11. I install the packages and run it from this folder:
 
 ```powershell

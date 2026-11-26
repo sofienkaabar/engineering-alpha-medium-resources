@@ -1,5 +1,7 @@
 # When the Trade Tape Turns Against a Limit Order
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/when-the-trade-tape-turns-against).
+
 I run this standalone file with Python 3.11:
 
 ```powershell

@@ -1,5 +1,7 @@
 # 2. Can Technical Indicators Help a Model Rotate Between ETFs
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/can-technical-indicators-help-a-model).
+
 I compare a price-based allocation model with relative strength and passive portfolios.
 
 I use Python 3.11. From this folder, I install the packages and run the file:

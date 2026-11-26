@@ -1,5 +1,7 @@
 # I Replaced RSI's Fixed Oversold Level With a Rolling Floor
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/i-replaced-rsis-fixed-oversold-level).
+
 I test this idea with my standalone `experiment.py`. I use Python 3.11. I install the packages and run it from this folder:
 
 ```powershell

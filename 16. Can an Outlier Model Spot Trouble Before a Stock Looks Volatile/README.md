@@ -1,5 +1,7 @@
 # Can an Outlier Model Spot Trouble Before a Stock Looks Volatile?
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/can-an-outlier-model-spot-trouble).
+
 I run this standalone file with Python 3.11:
 
 ```powershell

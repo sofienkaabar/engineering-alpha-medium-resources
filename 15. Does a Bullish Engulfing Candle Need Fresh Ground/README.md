@@ -1,5 +1,7 @@
 # Does a Bullish Engulfing Candle Need Fresh Ground?
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/does-a-bullish-engulfing-candle-need).
+
 I run this standalone file with Python 3.11:
 
 ```powershell

@@ -1,5 +1,7 @@
 # 6. Do Narrow Inside Bars Make Better Trading Signals
 
+I published this article on [Medium](https://kaabar-sofien.medium.com/do-narrow-inside-bars-make-better-trading-signals-8e37afb858a5).
+
 I test whether adding NR7 improves a strictly defined inside-bar entry.
 
 I use Python 3.11. From this folder, I install the packages and run the file:

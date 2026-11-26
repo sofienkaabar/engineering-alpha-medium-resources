@@ -1,5 +1,7 @@
 # Does the Shape of a Sell-Off Help Predict the Rebound?
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/does-the-shape-of-a-sell-off-help).
+
 I run my standalone calculation with Python 3.11:
 
 ```powershell

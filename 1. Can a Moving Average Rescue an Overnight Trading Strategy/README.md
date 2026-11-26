@@ -1,5 +1,7 @@
 # 1. Can a Moving Average Rescue an Overnight Trading Strategy
 
+I published this article on [Engineering Alpha](https://abouttrading.substack.com/p/can-a-moving-average-rescue-an-overnight).
+
 I compare overnight and daytime schedules, then add a prior-close trend filter.
 
 I use Python 3.11. From this folder, I install the packages and run the file:
